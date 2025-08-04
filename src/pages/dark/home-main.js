@@ -71,18 +71,8 @@ export default function HomeMain() {
         <ProgressScroll />
         <Start_exploring />
       <Whatsapp/>
-        <Lines />     
+        <Lines />
         <Navbar />
-        
-
-
-
-
-
-
-
-
-
 
         <div id="smooth-wrapper">
           <div id="smooth-content">
@@ -91,13 +81,14 @@ export default function HomeMain() {
 
               <Header />
               {/* <Intro /> */}
-              {/* <Services /> */}
+              {/* <Services /> */}  
+
               <Homeenterprice />
               {/* <CRMdesign /> */}
               <CRMdesign />
               <Services2 />
-    sasaaSasASas vv cbcbcv  bcvbcv ccv bcv b
-              <Homeprinciples />
+          vishwa
+               <Homeprinciples />
               <Environment /> 
               <Responsibility/>
               <RealCRM3 />
