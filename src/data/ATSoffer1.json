@@ -1,0 +1,41 @@
+[
+    {
+      "title": "Interactive Learning Modules",
+      "img": "/dark/assets/imgs/serv-icons/interactive-display.png",
+      "p":"The system includes interactive learning modules designed to engage users and enhance understanding. Features such as simulations, quizzes, and hands-on exercises make learning more dynamic and practical.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Integration Capabilities",
+      "img": "/dark/assets/imgs/serv-icons/development.png",
+      "p": "The training system can integrate with other HR, LMS (Learning Management Systems), or CRM systems. This integration ensures seamless data flow and aligns training with other organizational processes.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Customizable Training Content",
+      "img": "/dark/assets/imgs/serv-icons/flexible.png",
+      "p": "Training content can be tailored to fit specific organizational needs. You can customize modules to cover particular applications, processes, or industry requirements, ensuring relevance to your business.",
+
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Feedback and Support Tools",
+      "img": "/dark/assets/imgs/serv-icons/qna.png",
+      "p": "Built-in feedback and support tools allow users to ask questions, provide feedback, and receive assistance during their training. This support helps resolve issues quickly and enhances the overall learning experience.",
+      "link": "/dark/page-services-details"
+    },
+
+    {
+        "title": "Real-Time Analytics and Reporting",
+        "img": "/dark/assets/imgs/serv-icons/real-time.png",
+        "p": "The system provides real-time analytics and reporting features that track user progress, completion rates, and performance metrics. These insights help assess training effectiveness and identify areas for improvement.",
+  
+        "link": "/dark/page-services-details"
+      },
+      {
+        "title": "Security and Access Controls",
+        "img": "/dark/assets/imgs/serv-icons/data-access.png",
+        "p": "Robust security features and access controls protect sensitive training data and ensure that only authorized users can access specific content. This feature helps maintain data integrity and compliance with privacy regulations."
+      }
+    
+  ]

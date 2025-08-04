@@ -1,0 +1,22 @@
+[
+    {
+     "img": "/dark/assets/imgs/testim/user.jpg",
+    "name": "Bharat Patel",
+      "desc": "Since adopting Sales CRM, our sales processes have become more streamlined and efficient. The automated workflows and task management features have reduced the administrative burden on our sales team."
+    },
+    {
+      "img": "/dark/assets/imgs/testim/user.jpg",
+      "name": "Kenil Patel",
+      "desc": "Our team has seen a remarkable boost in efficiency since implementing Sales CRM. The automation of follow-ups and lead management has freed up valuable time, allowing us to focus on closing deals."
+    },
+    {
+      "img": "/dark/assets/imgs/testim/user.jpg",
+      "name": "Mina Pandya",
+      "desc": "Sales CRM has transformed how we manage customer relationships. The ability to access comprehensive customer profiles and interaction histories in one place has greatly enhanced our ability to personalize communications."
+    },
+    {
+      "img": "/dark/assets/imgs/testim/user.jpg",
+      "name": "Adam Beckley",
+      "desc": "I have been hiring people in this space for a number of years and I have never seen this level of professionalism. It really feels like you are working with a team that can get the job done."
+    }
+  ]

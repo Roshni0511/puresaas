@@ -1,0 +1,97 @@
+[
+    {
+      "title": "Robust Project Management",
+      "img": "/dark/assets/imgs/serv-icons/customer-management.png",
+      "p":"One of the standout features of Real Estate Agent CRM is its robust project management tools. These tools allow you to plan, execute, and monitor your construction projects effectively. You can create and manage project timelines with ease, assign tasks and resources efficiently.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Precise Job Costing and Budgeting",
+      "img": "/dark/assets/imgs//serv-icons/cost.png",
+      "p": "Accurate job costing and budgeting are crucial for construction projects, and Real Estate Agent CRM provides advanced features to manage these effectively. The system allows for detailed cost estimations, real-time budget tracking, and streamlined invoicing.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Efficient Document Management",
+      "img": "/dark/assets/imgs/serv-icons/project.png",
+      "p": "Real Estate Agent CRM includes efficient document management capabilities, enabling you to store, organize, and access important project documents and contracts easily with features such as document sharing and version control",
+
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Scalable Solutions",
+      "img": "/dark/assets/imgs/serv-icons/grow.png",
+      "p": "Real Estate Agent CRM is designed to scale with your business, accommodating growth in the number of projects, clients, and team members. Whether you are expanding your operations or increasing your workforce.",
+      "link": "/dark/page-services-details"
+    },
+
+    {
+        "title": "Mobile Accessibility",
+        "img": "/dark/assets/imgs/serv-icons/remote-access.png",
+        "p": "With mobile access, Real Estate Agent CRM ensures that team members can stay connected and manage projects from anywhere. This feature is particularly useful for construction teams working on-site or in the field.",
+  
+        "link": "/dark/page-services-details"
+      },
+      {
+        "title": "Customizable Dashboards",
+        "img": "/dark/assets/imgs/serv-icons/dashboard.png",
+        "p": "The system features customizable dashboards that allow users to tailor their workspace according to their specific needs. This flexibility ensures that you can focus on the most relevant information.",
+        "link": "/dark/page-services-details"
+      },
+
+      
+
+
+
+      
+      {
+        "title": "Reporting and Analytics",
+        "img": "/dark/assets/imgs/serv-icons/report.png",
+        "p": "Generate customizable reports on property performance, sales pipelines, agent productivity, and marketing campaign effectiveness.Gain insights into market trends, buyer preferences, and ROI on marketing efforts.",
+  
+        "link": "/dark/page-services-details"
+      },
+
+
+      {
+        "title": "Marketing Automation",
+        "img": "/dark/assets/imgs/serv-icons/marketing-automation.png",
+        "p": "Automate email campaigns, newsletters, property alerts, and personalized marketing communications.Segment contacts based on interests, behaviors, and demographics for targeted marketing.",
+  
+        "link": "/dark/page-services-details"
+      },
+  
+      {
+        "title": "Client Relationship Management",
+        "img": "/dark/assets/imgs/serv-icons/crm.png",
+        "p": "Maintain detailed client profiles with contact information, preferences, and transaction history.Track interactions including emails, calls, meetings, and property viewings.",
+  
+        "link": "/dark/page-services-details"
+      },
+      {
+        "title": "Property Management",
+        "img": "/dark/assets/imgs/serv-icons/assets.png", 
+        "p": "Easily manage and organize property listings with detailed descriptions, photos, and status updates.Track property availability, price changes, and historical data.",
+  
+        "link": "/dark/page-services-details"
+      },
+      {
+        "title": "Lead Management",
+        "img": "/dark/assets/imgs/serv-icons/lead (1).png", 
+        "p": "Capture and track leads from various sources such as websites, social media, and referrals.Assign leads to agents and track lead status through the sales pipeline.",
+  
+        "link": "/dark/page-services-details"
+      },
+      {
+        "title": " Workflow Automation",
+        "img": "/dark/assets/imgs/serv-icons/collaboration.png", 
+        "p": "Automate routine tasks such as follow-ups, reminders, and task assignments.Improve efficiency and productivity by reducing manual data entry and administrative workload.",
+  
+        "link": "/dark/page-services-details"
+      }
+
+     
+
+      
+       
+  ]

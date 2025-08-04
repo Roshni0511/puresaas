@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Streamlined Customer Support",
+      "img": "/dark/assets/imgs/serv-icons/customer-service1.png",
+      "first":"A Service CRM centralizes all customer interactions and service requests into one platform. This integration streamlines support processes, allowing your team to track and manage customer issues."
+
+    },
+    {
+      "title": "Communication Channels",
+      "img": "/dark/assets/imgs/serv-icons/channel.png" ,
+      "first":"Service CRM systems offer multiple communication channels, including email, chat, and phone integrations. These features enable seamless interactions with customers, allowing your support team."
+ 
+    },
+    {
+      "title": "Continuous Improvement", 
+      "img": "/dark/assets/imgs/serv-icons/continuous-improvement.png",
+      "first":"Leverage feedback and performance data to continuously improve your service operations. A Service CRM provides insights and tools for evaluating service quality and implementing enhancements."
+    }
+  
+  ]

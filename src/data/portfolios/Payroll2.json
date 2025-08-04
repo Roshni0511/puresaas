@@ -1,0 +1,51 @@
+[
+      
+    {
+        "title": "Payslip Generation ",
+        "img": "/dark/assets/imgs/serv-icons/payslip.png",
+        "p": "The Payslip Generation feature ensures that employees receive accurate and detailed salary slips for each payroll cycle. The system automatically calculates earnings, deductions, taxes, and net pay, generating digital payslips that employees can easily access and download. ",
+  
+        "link": "/dark/page-services-details"
+      },
+
+
+      {
+        "title": "Attendance & Leave Tracking ",
+        "img": "/dark/assets/imgs/serv-icons/passport.png",
+        "p": "The Attendance & Leave Tracking feature ensures accurate payroll processing by automatically recording employee working hours, leaves, and overtime. Integrated with biometric systems, RFID, or manual inputs, it tracks attendance in real time, reducing errors and preventing discrepancies in salary calculations.",
+  
+        "link": "/dark/page-services-details"
+      },
+  
+      {
+        "title": "Bank & Payment Integration",
+        "img": "/dark/assets/imgs/serv-icons/bank.png",
+        "p": "The Bank & Payment Integration feature streamlines salary disbursement by enabling direct transfers to employees' bank accounts. This automation eliminates the need for manual payments, reducing errors and ensuring timely salary processing. ",
+  
+        "link": "/dark/page-services-details"
+      },
+      {
+        "title": "Reports & Analytics ",
+        "img": "/dark/assets/imgs/serv-icons/lead (1).png", 
+        "p": "The Reports & Analytics feature provides businesses with in-depth insights into their payroll data, enabling informed decision-making and financial transparency.",
+  
+        "link": "/dark/page-services-details"
+      },
+      {
+        "title": "Multi-Country Support",
+        "img": "/dark/assets/imgs/serv-icons/diplomacy.png", 
+        "p": "The Multi-Country Support feature allows businesses to manage payroll across different regions with ease, ensuring compliance with local laws, tax regulations, and employment standards. ",
+  
+        "link": "/dark/page-services-details"
+      },
+      {
+        "title": "Employee Self-Service Portal",
+        "img": "/dark/assets/imgs/serv-icons/self-service.png", 
+        "p": "The Employee Self-Service Portal empowers employees to take control of their payroll-related information, providing them with easy access to important documents and details.",
+  
+        "link": "/dark/page-services-details"
+      }
+
+     
+
+]

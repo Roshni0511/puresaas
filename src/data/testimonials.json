@@ -1,0 +1,22 @@
+[
+  {
+   "img": "/dark/assets/imgs/testim/user.jpg",
+  "name": "Rutu Patel",
+    "desc": "We've been using Puresaas CRM for over a year now, and it has exceeded our expectations.The customization options allowed us to tailor the CRM to fit our unique business needs perfectly."
+  },
+  {
+    "img": "/dark/assets/imgs/testim/user.jpg",
+    "name": "Amit Chaudhary",
+    "desc": "As a growing startup, we needed a CRM solution that could scale with us.Puresaas CRM not only met our scalability needs but also provided us with powerful automation tools that have saved us countless hours."
+  },
+  {
+    "img": "/dark/assets/imgs/testim/user.jpg",
+    "name": "Rita Patel",
+    "desc": "The customer support from Puresaas has been outstanding. Whenever we have a question or need assistance, their team is quick to respond and goes above and beyond to help us resolve any issues."
+  },
+  {
+    "img": "/dark/assets/imgs/testim/user.jpg",
+    "name": "Adam Beckley",
+    "desc": "I have been hiring people in this space for a number of years and I have never seen this level of professionalism. It really feels like you are working with a team that can get the job done."
+  }
+]

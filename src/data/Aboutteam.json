@@ -1,0 +1,17 @@
+[
+    {
+      "img": "/dark/assets/imgs/intro/person-1.png",
+      "name": "Shubham Singh",
+      "subName": "CEO"
+    },
+    {
+      "img": "/dark/assets/imgs/intro/person-2.png",
+      "name": "Raj Patel",
+      "subName": "Marketing manager"
+    },
+    {
+      "img": "/dark/assets/imgs/team/3.jpg",
+      "name": "Vikram Yadav",
+      "subName": "Web Designer"
+    }
+  ]

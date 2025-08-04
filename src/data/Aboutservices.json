@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Expertise",
+      "img": "/dark/assets/imgs/serv-icons/abou1.png",
+      "desc": "Backed by a team of seasoned developers, designers, and industry experts, we bring years of collective experience to every project.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Quality Assurance",
+      "img": "/dark/assets/imgs/serv-icons/abou2.png",
+      "desc": "Our testing and quality assurance processes guarantee CRM that is not only functional but also robust and reliable.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Customer-Driven Focus",
+      "img": "/dark/assets/imgs/serv-icons/abou3.png",
+      "desc": "We prioritize customer satisfaction above all else, striving to build relationships based on trust, transparency, and mutual success.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "UI-UX Design",
+      "img": "/dark/assets/imgs/serv-icons/5.png",
+      "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+      "link": "/dark/page-services-details"
+    }
+  ]
+  

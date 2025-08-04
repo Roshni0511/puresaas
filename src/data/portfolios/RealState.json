@@ -1,0 +1,36 @@
+[
+    {
+      "title": "Omnichannel communication",
+      "img": "/dark/assets/imgs/icon-img/real1.png",
+      "first":"Omnichannel communication ensures consistency across all customer channels."
+     
+    },
+    {
+      "title": "Built-in campaigns",
+      "img": "/dark/assets/imgs/icon-img/real2.png",
+      "first":"Project management focuses on planning, organizing, and achieving goals. "
+     
+    },
+    {
+      "title": "Project management",
+      "img": "/dark/assets/imgs/icon-img/real3.png",
+      "first":"PURSAAS CRM tracks stock and manages inventory efficiently."     
+    },
+    {
+      "title": "Third-party integrations",
+      "img": "/dark/assets/imgs/icon-img/real4.png",
+      "first":"Third-party integrations enhance system functionality and efficiency."
+    },
+    {
+        "title": "Complete customization",
+        "img": "/dark/assets/imgs/icon-img/real5.png",
+        "first":"Complete customization tailors products for personalized experiences and flexibilit"
+       
+      },
+      {
+        "title": "Self-service portals",
+        "img": "/dark/assets/imgs/icon-img/real6.png",
+        "first":"Self-service portal enables independent service management."
+       
+      }
+  ]

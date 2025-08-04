@@ -1,0 +1,31 @@
+[
+    {
+      "title": "User-friendly interface",
+      "img": "/dark/assets/imgs/icon-img/ins1.png",
+      "first":"User-friendly interface enhances ease of use."
+     
+    },
+    {
+      "title": " Customization",
+      "img": "/dark/assets/imgs/icon-img/ins2.png",
+      "first":"Customization tailors features for specific user needs. "
+     
+    },
+    {
+      "title": "AI-based sales assistant",
+      "img": "/dark/assets/imgs/icon-img/ins3.png",
+      "first":"AI-based sales assistant automates tasks and enhances customer interactions."     
+    },
+    {
+      "title": " Seamless integration",
+      "img": "/dark/assets/imgs/icon-img/ins4.png",
+      "first":"Seamless integration connects systems effortlessly for improved functionality."
+    },
+    {
+        "title": "Mobile app",
+        "img": "/dark/assets/imgs/icon-img/ins5.png",
+        "first":"A mobile app provides access to services and features on-the-go."
+       
+      }
+     
+  ]

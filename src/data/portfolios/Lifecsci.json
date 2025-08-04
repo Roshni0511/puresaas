@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Increase productivity",
+      "img": "/dark/assets/imgs/serv-icons/LIF1.png",
+      "desc": "Enhance efficiency by automating tasks, optimizing workflows, and improving collaboration, allowing your team to achieve more in less time.  ",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "360-degree view",
+      "img": "/dark/assets/imgs/serv-icons/LIF2.png",
+      "desc": "PuresaasCRM delivers a comprehensive 360-degree view of every aspect of your customer relationship.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Customization",
+      "img": "/dark/assets/imgs/serv-icons/LIF3.png",
+      "desc": "Puresaas CRM offers a highly flexible user interface that adapts to your specific requirements.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Third-party extensions",
+      "img": "/dark/assets/imgs/serv-icons/Life4.png",
+      "desc": "Integrations with Puresaas CRM and other third-party apps to enhance your CRM performance.",
+      "link": "/dark/page-services-details"
+    },
+    {
+        "title": "Manage product movement",
+        "img": "/dark/assets/imgs/serv-icons/LIF5.png",
+        "desc": "Track and manage the movement of your products with Puresaas .",
+        "link": "/dark/page-services-details"
+      },
+      {
+        "title": "Readily accessible",
+        "img": "/dark/assets/imgs/serv-icons/LIF6.png",
+        "desc": "Access your data anytime, anywhere with Puresaas.",
+        "link": "/dark/page-services-details"
+      }
+  ]

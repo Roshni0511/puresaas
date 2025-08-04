@@ -1,0 +1,41 @@
+[
+    {
+      "title": "Call Management System",
+      "img": "/dark/assets/imgs/serv-icons/customer-management.png",
+      "p":"Efficiently manage incoming and outgoing calls with an integrated call management system. Features include auto-dialing, call tracking, and call recording, ensuring that every interaction is captured and managed effectively.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Multi-Channel Communication",
+      "img": "/dark/assets/imgs//serv-icons/cost.png",
+      "p": "Support communication across multiple channels, including phone calls, emails, and SMS. This multi-channel capability enables comprehensive engagement with leads and clients, improving overall outreach and response rates.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Automated Call Scheduling",
+      "img": "/dark/assets/imgs/serv-icons/project.png",
+      "p": "Automate the scheduling of follow-up calls and reminders to ensure timely and consistent communication with leads and clients. The system helps your team stay organized and reduces the risk of missed opportunities.",
+
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Customizable Reports",
+      "img": "/dark/assets/imgs/serv-icons/grow.png",
+      "p": "Generate customizable reports tailored to your specific needs and preferences. TeleCaller CRM’s reporting tools allow you to create detailed reports on various aspects of your telecalling operations, providing insights for strategic planning.",
+      "link": "/dark/page-services-details"
+    },
+
+    {
+        "title": "Real-Time Analytics and Reporting",
+        "img": "/dark/assets/imgs/serv-icons/remote-access.png",
+        "p": "Access real-time analytics and generate comprehensive reports on call metrics, agent performance, and lead conversion rates. This feature provides valuable insights into your telecalling operations, helping you identify trends and make data-driven decisions.",
+  
+        "link": "/dark/page-services-details"
+      },
+      {
+        "title": "Customer Interaction History",
+        "img": "/dark/assets/imgs/serv-icons/dashboard.png",
+        "p": "Maintain a comprehensive record of customer interactions, including call history, notes, and follow-ups. This feature allows your agents to have informed and personalized conversations with customers, improving engagement and relationship management.",
+        "link": "/dark/page-services-details"
+      }    
+  ]

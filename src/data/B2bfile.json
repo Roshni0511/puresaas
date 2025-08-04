@@ -1,0 +1,97 @@
+[
+    {
+      "title": "Automated Order Management",
+      "img": "/dark/assets/imgs/serv-icons/infrastructure.png",
+      "p":"Streamlines order processing, tracking, and fulfillment, reducing manual work and improving accuracy. It ensures quick order approvals and better coordination between departments.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Real-Time Inventory Tracking",
+      "img": "/dark/assets/imgs/serv-icons/streamlined (1).png",
+      "p": "Monitors stock levels, raw materials, and finished goods to prevent shortages and overstocking. Provides real-time updates, helping businesses manage supply effectively.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Seamless Vendor Integration",
+      "img": "/dark/assets/imgs/serv-icons/vendor.png",
+      "p": "Enhances supplier communication, order management, and procurement efficiency for smooth operations. It simplifies vendor coordination, reducing delays and improving cost control.",
+
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": " Advanced Reporting & Analytics",
+      "img": "/dark/assets/imgs/serv-icons/chart.png",
+      "p": "Provides insights into sales, production, and costs, helping businesses make data-driven decisions. Customizable reports allow better forecasting and performance tracking.",
+      "link": "/dark/page-services-details"
+    },
+
+    {
+        "title": "Production Planning & Scheduling",
+        "img": "/dark/assets/imgs/serv-icons/planning.png",
+        "p": "Optimizes manufacturing processes, ensuring timely production and efficient resource utilization. It helps allocate resources effectively and minimize production downtime.",
+  
+        "link": "/dark/page-services-details"
+      },
+      {
+        "title": "Multi-Channel Sales Management",
+        "img": "/dark/assets/imgs/serv-icons/network-connection.png",
+        "p": "Manages B2B orders across multiple sales channels, improving order accuracy and customer service. It ensures seamless coordination between offline and online sales.",
+        "link": "/dark/page-services-details"
+      },
+
+      
+
+
+
+      
+      {
+        "title": "Reporting and Analyticsytjg",
+        "img": "/dark/assets/imgs/serv-icons/remote-access.png",
+        "p": "Generate customizable reports on property performance, sales pipelines, agent productivity, and marketing campaign effectiveness.Gain insights into market trends, buyer preferences, and ROI on marketing efforts.",
+  
+        "link": "/dark/page-services-details"
+      },
+
+
+      {
+        "title": "Marketing Automation",
+        "img": "/dark/assets/imgs/serv-icons/remote-access.png",
+        "p": "Automate email campaigns, newsletters, property alerts, and personalized marketing communications.Segment contacts based on interests, behaviors, and demographics for targeted marketing.",
+  
+        "link": "/dark/page-services-details"
+      },
+  
+      {
+        "title": "Client Relationship Management",
+        "img": "/dark/assets/imgs/serv-icons/remote-access.png",
+        "p": "Maintain detailed client profiles with contact information, preferences, and transaction history.Track interactions including emails, calls, meetings, and property viewings.",
+  
+        "link": "/dark/page-services-details"
+      },
+      {
+        "title": "Property Management",
+        "img": "/dark/assets/imgs/serv-icons/remote-access.png",
+        "p": "Easily manage and organize property listings with detailed descriptions, photos, and status updates.Track property availability, price changes, and historical data.",
+  
+        "link": "/dark/page-services-details"
+      },
+      {
+        "title": "Lead Management",
+        "img": "/dark/assets/imgs/serv-icons/remote-access.png",
+        "p": "Capture and track leads from various sources such as websites, social media, and referrals.Assign leads to agents and track lead status through the sales pipeline.",
+  
+        "link": "/dark/page-services-details"
+      },
+      {
+        "title": " Workflow Automation",
+        "img": "/dark/assets/imgs/serv-icons/remote-access.png",
+        "p": "Automate routine tasks such as follow-ups, reminders, and task assignments.Improve efficiency and productivity by reducing manual data entry and administrative workload.",
+  
+        "link": "/dark/page-services-details"
+      }
+
+     
+
+      
+       
+  ]

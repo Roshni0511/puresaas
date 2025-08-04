@@ -1,0 +1,32 @@
+[
+    {
+      "title": "Analytics and Tracking",
+      "img": "/dark/assets/imgs/serv-icons/monitoring.png",
+      "first":"Application Training Systems provide robust analytics and tracking features that allow you to monitor employee progress and performance.You can track completion rates.",
+      "second" :"Customizable forms for property",
+      "third" :"Image and video uploads",
+      "four" :"MLS integration",
+      "five" : "Automated descriptions and tags",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Improved Productivity",
+      "img": "/dark/assets/imgs/serv-icons/performance.png" ,
+      "first":"With targeted training, employees can quickly learn and master new applications, leading to faster adoption and integration into their daily routines.",
+      "second" :"Virtual tours",
+      "third" :"Online booking and scheduling",
+      "four" :"Client feedback automation",
+      "five" : "Interactive floor plans and maps",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Up-to-Date Content", 
+      "img": "/dark/assets/imgs/serv-icons/timer.png",
+      "first":"Technology and software applications are constantly evolving. An effective Application Training System provides up-to-date training content that reflects the latest features.",
+      "second" :"Lead capture and tracking",
+      "third" :"Automated follow-ups",
+      "four" :"Lead scoring",
+      "five" : "Marketing integration",
+      "link": "/dark/page-services-details"
+    }
+  ]

@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Customization",
+      "img": "/dark/assets/imgs/icon-img/crd1.png",
+      "first":"Customization allows personalized,  adaptable, and tailored solutions for your business."
+     
+    },
+    {
+        "title": "Mobile app",
+        "img": "/dark/assets/imgs/icon-img/ins5.png",
+        "first":"A mobile app provides access to services and features on-the-go."
+     
+    },
+    {
+      "title": "Third-party extensions",
+      "img": "/dark/assets/imgs/icon-img/real4.png",
+      "first":"Third-party integrations enhance system functionality and efficiency."     
+    },
+    {
+      "title": "Built-in analytics",
+      "img": "/dark/assets/imgs/icon-img/hp4.png",
+      "first":"Track performance, gain insights, optimize operations, decisions."
+    },
+    {
+        "title": "An AI-assistant",
+        "img": "/dark/assets/imgs/icon-img/hp5.png",
+        "first":"An AI-assistant streamlines tasks, automates processes, and personalizes interactions." },
+      {
+        "title": "Automation",
+        "img": "/dark/assets/imgs/icon-img/h6.png",
+        "first":"Automation streamlines tasks, reduces manual effort, ensures consistency, and saves time."
+       
+      }
+  ]

@@ -1,0 +1,41 @@
+[
+    {
+      "title": "Comprehensive Business Management",
+      "img": "/dark/assets/imgs/serv-icons/customer-management.png",
+      "p":"Our ERP CRM integrates all essential business functions, from accounting and HR to sales and customer service, ensuring smooth operations and seamless collaboration.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Automated Workflow & Efficiency",
+      "img": "/dark/assets/imgs//serv-icons/cost.png",
+      "p": "Eliminate manual tasks with smart automation that accelerates processes, reduces errors, and boosts overall productivity, helping your team focus on strategic growth.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": " Advanced Customer Relationship Management",
+      "img": "/dark/assets/imgs/serv-icons/project.png",
+      "p": "Enhance customer interactions with automated follow-ups, real-time insights, and personalized engagement, ensuring stronger relationships and improved retention.",
+
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Real-Time Data & Analytics",
+      "img": "/dark/assets/imgs/serv-icons/grow.png",
+      "p": "Make informed decisions with AI-powered analytics, live dashboards, and detailed reports that provide valuable business insights for smarter strategy execution.",
+      "link": "/dark/page-services-details"
+    },
+
+    {
+        "title": "Scalable & Customizable Solutions",
+        "img": "/dark/assets/imgs/serv-icons/remote-access.png",
+        "p": "Designed to grow with your business, our ERP CRM offers flexible modules that adapt to your specific needs, ensuring long-term efficiency and adaptability.",
+  
+        "link": "/dark/page-services-details"
+      },
+      {
+        "title": " Secure & Cloud-Based Accessibility",
+        "img": "/dark/assets/imgs/serv-icons/dashboard.png",
+        "p": "With robust data security and cloud-based access, manage your business from anywhere, ensuring 24/7 connectivity and protection for your critical information. ",
+        "link": "/dark/page-services-details"
+      }    
+  ]

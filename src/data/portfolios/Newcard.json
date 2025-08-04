@@ -1,0 +1,20 @@
+[
+    {
+      "title": "All-in-One Business Management",
+      "img": "/dark/assets/imgs/serv-icons/project-management.png",
+      "first":"WHY Office ERP CRM combines enterprise resource planning and customer relationship management into a single, powerful solution. "
+     
+    },
+    {
+      "title": " Smart Automation & Workflow Optimization",
+      "img": "/dark/assets/imgs/serv-icons/honesty.png" ,
+      "first":"With intelligent automation, businesses can eliminate repetitive tasks, speed up processes, and improve accuracy."
+    },
+    {
+      "title": "Customer-Centric Growth Strategy", 
+      "img": "/dark/assets/imgs/serv-icons/grow.png",
+      "first":"A strong CRM system helps businesses understand their customers better, track interactions, and personalize engagement. "
+      
+    }
+    
+  ]

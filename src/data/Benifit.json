@@ -1,0 +1,31 @@
+[
+    {
+      "title": "Accessibility",
+      "img": "/dark/assets/imgs/serv-icons/easy-access.png",
+      "desc": "1. Access To Critical Information Anytime, Anywhere, Providing Flexibility And Mobility.",
+      "desc2": "2. Real Estate Agents Can Manage Leads, Properties, And Communications On The Go.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Improved Productivity",
+      "img": "/dark/assets/imgs/serv-icons/productivity.png",
+      "desc": "1. Streamlined Workflows And Efficient Task Management.",
+      "desc2": "2. Instant Access To Property Information And Client Data Enhances Productivity. ",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Enhanced Communication",
+      "img": "/dark/assets/imgs/serv-icons/message.png",
+      "desc": "1. In-App Messaging Facilitates Quick And Direct Communication Between Team Members.",
+      "desc2": "2. Push Notifications Keep Users Informed About Updates, Appointments, And Deadlines.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Client Engagement",
+      "img": "/dark/assets/imgs/serv-icons/customer-management.png",
+      "desc": "1. Clients Can Easily Browse And Search For Properties Using The Mobile App.",
+      "desc2": "2. Push Notifications And Alerts Keep Clients Informed About New Listings Or Changes In Their Transactions.",
+      "link": "/dark/page-services-details"
+    }   
+  ]
+  

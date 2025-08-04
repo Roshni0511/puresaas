@@ -1,0 +1,25 @@
+[
+    {
+      "title": "360-degree view",
+      "img": "/dark/assets/imgs/icon-img/ser1.png",
+      "first":"A 360-degree view enables personalized service, informed decisions, and seamless customer experience management."
+     
+    },
+    {
+        "title": "Fully compliant",
+        "img": "/dark/assets/imgs/icon-img/ser2.png",
+        "first":"Fully compliant CRM ensures data security, privacy, and regulatory adherence for peace of mind."
+     
+    },
+    {
+      "title": "Be on the move",
+      "img": "/dark/assets/imgs/icon-img/ser3.png",
+      "first":"Be on the move with mobile CRM, enhancing flexibility, accessibility, and real-time updates anywhere."     
+    },
+    {
+      "title": "Fully Customizable",
+      "img": "/dark/assets/imgs/icon-img/ser4.png",
+      "first":"Fully customizable CRM ensures tailored workflows, flexibility, scalability."
+    }
+    
+  ]

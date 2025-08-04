@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Project Management",
+      "img": "/dark/assets/imgs/serv-icons/project-management.png",
+      "first":"Real Estate Agent CRM offers robust project management tools that allow you to plan, execute, and monitor your construction projects effectively.",
+      "second" :"Customizable forms for property",
+      "third" :"Image and video uploads",
+      "four" :"MLS integration",
+      "five" : "Automated descriptions and tags",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Integration Capabilities",
+      "img": "/dark/assets/imgs/serv-icons/honesty.png" ,
+      "first":"Real Estate Agent CRM integrates with various other tools and software commonly used in the construction industry, such as accounting software.",
+      "second" :"Virtual tours",
+      "third" :"Online booking and scheduling",
+      "four" :"Client feedback automation",
+      "five" : "Interactive floor plans and maps",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Scalability", 
+      "img": "/dark/assets/imgs/serv-icons/grow.png",
+      "first":"As your business grows, Real Estate Agent CRM can scale with you. It can handle an increasing number of projects, clients, and team members.",
+      "second" :"Lead capture and tracking",
+      "third" :"Automated follow-ups",
+      "four" :"Lead scoring",
+      "five" : "Marketing integration",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "UI-UX Design",
+      "img": "/dark/assets/imgs/serv-icons/5.png",
+      "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+      "link": "/dark/page-services-details"
+    }
+  ]

@@ -1,0 +1,22 @@
+[
+    {
+     "img": "/dark/assets/imgs/testim/user.jpg",
+    "name": "Rina Goti",
+      "desc": "The Service CRM has transformed how we handle customer inquiries. The integrated communication channels and real-time analytics have provided us with deeper insights into our service performance. "
+    },
+    {
+      "img": "/dark/assets/imgs/testim/user.jpg",
+      "name": "Rashmi Patel",
+      "desc": "Since implementing the Service CRM, our response times have significantly improved. The system's automation features streamline our case management and ensure that no customer issue falls through the cracks. "
+    },
+    {
+      "img": "/dark/assets/imgs/testim/user.jpg",
+      "name": "Nitin Shah",
+      "desc": "The ability to centralize all customer interactions into a single platform has been a game-changer for us. Service CRM's personalized service features and comprehensive knowledge base have empowered our team."
+    },
+    {
+      "img": "/dark/assets/imgs/testim/user.jpg",
+      "name": "Adam Beckley",
+      "desc": "I have been hiring people in this space for a number of years and I have never seen this level of professionalism. It really feels like you are working with a team that can get the job done."
+    }
+  ]

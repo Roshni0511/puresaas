@@ -1,0 +1,22 @@
+[
+    {
+        "img": "/dark/assets/imgs/testim/user.jpg",
+        "name": "Samay dev",
+        "desc": "The Payroll System has completely transformed how we manage employee salaries. Automated calculations, tax compliance, and seamless payment processing have saved us countless hours and reduced errors."
+    },
+    {
+        "img": "/dark/assets/imgs/testim/user.jpg",
+        "name": "Reshma Patel",
+        "desc": "Since implementing the Payroll System, our payroll processing time has significantly improved. The automation features ensure timely salary disbursement, accurate deductions, and compliance with labor laws."
+    },
+    {
+        "img": "/dark/assets/imgs/testim/user.jpg",
+        "name": "Dipesh Shah",
+        "desc": "The ability to centralize employee payroll, tax management, and attendance tracking into a single system has been a game-changer. The Payroll System’s intuitive interface has made our payroll process seamless."
+    },
+    {
+        "img": "/dark/assets/imgs/testim/user.jpg",
+        "name": "Adam Beckley",
+        "desc": "Managing payroll used to be a hassle, but with this system, everything is automated and error-free. It’s a reliable solution that ensures smooth payroll operations every month."
+    }
+]

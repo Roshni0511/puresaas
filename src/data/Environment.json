@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Enduring Commitment",
+    "img": "/dark/assets/imgs/serv-icons/S1 (1).png",
+    "desc": "With over 25 years of successful operation, we have a deep understanding",
+    "link": "/dark/page-services-details"
+  },
+  {
+    "title": "Dedicated to Innovation",
+    "img": "/dark/assets/imgs/serv-icons/S2 (1).png",
+    "desc": "At the heart of our business lies a relentless pursuit of excellence",
+    "link": "/dark/page-services-details"
+  },
+  {
+    "title": "Client-Focused Strategy",
+    "img": "/dark/assets/imgs/serv-icons/S3 (1).png",
+    "desc": "Our success is built on the trust and support of our customers. We prioritize",
+    "link": "/dark/page-services-details"
+  },
+  {
+    "title": "Complete Software Suite",
+    "img": "/dark/assets/imgs/serv-icons/S4 (1).png",
+    "desc": "We offer a full range of software products designed to meet your",
+    "link": "/dark/page-services-details"
+  },
+  {
+    "title": "Cutting-Edge Technology ",
+    "img": "/dark/assets/imgs/serv-icons/S5 (1).png",
+    "desc": "Our proprietary technology stack ensures you receive the most",
+    "link": "/dark/page-services-details"
+  },
+  {
+    "title": "Ongoing Evolution",
+    "img": "/dark/assets/imgs/serv-icons/S6 (1).png",
+    "desc": "Our dedication to continuous improvement means we are always",
+    "link": "/dark/page-services-details"
+  }
+]

@@ -1,0 +1,51 @@
+[
+      
+    {
+        "title": "Interactive Training Modules",
+        "img": "/dark/assets/imgs/serv-icons/training.png",
+        "p": "The system offers a variety of interactive training modules that include video tutorials, simulations, and hands-on exercises. These modules provide users with practical experience and engage different learning styles, ensuring a thorough understanding of application functionalities.",
+  
+        "link": "/dark/page-services-details"
+      },
+
+
+      {
+        "title": "Customizable Assessments",
+        "img": "/dark/assets/imgs/serv-icons/documents.png",
+        "p": "The system offers customizable assessments, including quizzes, tests, and practical exercises, that can be tailored to specific learning objectives. These assessments help evaluate user knowledge, provide feedback on performance, and identify areas for improvement.Support and Feedback",
+  
+        "link": "/dark/page-services-details"
+      },
+  
+      {
+        "title": "Customizable Content",
+        "img": "/dark/assets/imgs/serv-icons/flexible.png",
+        "p": "Training content can be customized to meet specific organizational needs and industry requirements. This feature allows you to tailor training modules to focus on particular applications, processes, or user roles, ensuring relevance and alignment with business objectives.",
+  
+        "link": "/dark/page-services-details"
+      },
+      {
+        "title": "Support and Feedback Tools",
+        "img": "/dark/assets/imgs/serv-icons/documentation.png", 
+        "p": "Built-in support and feedback tools, including help desks, chat features, and discussion forums, facilitate communication and provide users with assistance throughout their training journey. These tools help resolve issues quickly and gather valuable feedback.",
+  
+        "link": "/dark/page-services-details"
+      },
+      {
+        "title": "Real-Time Analytics and Reporting",
+        "img": "/dark/assets/imgs/serv-icons/real-time.png", 
+        "p": "The system includes advanced analytics and reporting features that track user progress and performance. Real-time dashboards provide insights into completion rates, assessment results, and engagement levels, allowing you to monitor the effectiveness of the training program.",
+  
+        "link": "/dark/page-services-details"
+      },
+      {
+        "title": "Enhanced Security",
+        "img": "/dark/assets/imgs/serv-icons/reliability.png", 
+        "p": "Robust security features, including encryption, access controls, and regular security audits, protect sensitive training data and ensure compliance with privacy regulations. Enhanced security measures safeguard user information and maintain the integrity of your data.",
+  
+        "link": "/dark/page-services-details"
+      }
+
+     
+
+]

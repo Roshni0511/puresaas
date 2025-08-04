@@ -1,0 +1,36 @@
+[
+    {
+      "title": "Easy to use",
+      "img": "/dark/assets/imgs/icon-img/credit (1).png",
+      "first":"Puresaas CRM is easy to use, enabling you to effortlessly accelerate and supercharge your growth."
+     
+    },
+    {
+      "title": "Easy migration",
+      "img": "/dark/assets/imgs/icon-img/migration (1).png",
+      "first":"Puresaas CRM offers easy migration, allowing you to seamlessly transition and supercharge your growth without hassle. "
+     
+    },
+    {
+      "title": "Easy customization",
+      "img": "/dark/assets/imgs/icon-img/customize.png",
+      "first":"Puresaas CRM offers easy customization, enabling you to tailor the system to fit your business needs and accelerate growth effortlessly."    
+    },
+    {
+      "title": "Puresaas CRM grows with you",
+      "img": "/dark/assets/imgs/icon-img/graphics.png",
+      "first":"Puresaas CRM is built to grow with you, adapting to your evolving business needs and driving continuous success."
+    },
+    {
+        "title": "Security",
+        "img": "/dark/assets/imgs/icon-img/shield.png",
+        "first":"Puresaas CRM ensures top-notch security, safeguarding your data with advanced encryption and privacy features for peace of mind."
+       
+      },
+      {
+        "title": "Extended marketplace",
+        "img": "/dark/assets/imgs/icon-img/online-shopping.png",
+        "first":"Puresaas CRM provides an extended marketplace, offering seamless integrations and tools to expand your business capabilities."
+       
+      }
+  ]

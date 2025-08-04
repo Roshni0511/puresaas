@@ -1,0 +1,36 @@
+[
+    {
+      "title": "Integrate",
+      "img": "/dark/assets/imgs/icon-img/ed1.png",
+      "first":"Integrate systems for streamlined operations, improved data flow, and enhanced user experience."
+     
+    },
+    {
+      "title": "Effortlessly migrate",
+      "img": "/dark/assets/imgs/icon-img/ed2.png",
+      "first":"Effortlessly migrate data with seamless integration, minimal downtime, and enhanced security. "
+     
+    },
+    {
+      "title": "Provide self-service portals",
+      "img": "/dark/assets/imgs/icon-img/ed3.png",
+      "first":"Provide self-service portals for convenience, efficiency, instant access, and improved user experience."     
+    },
+    {
+      "title": "Deploy intelligent automation",
+      "img": "/dark/assets/imgs/icon-img/ed5.png",
+      "first":"Deploy intelligent automation to streamline processes, enhance efficiency, and reduce manual effort."
+    },
+    {
+        "title": "Manage your admission lifecycle",
+        "img": "/dark/assets/imgs/icon-img/ed4.png",
+        "first":"Streamline, track, automate, optimize admission processes."
+       
+      },
+      {
+        "title": "Contextually collaborate",
+        "img": "/dark/assets/imgs/icon-img/ed6.png",
+        "first":"Enhance communication, streamline workflows, efficiency."
+       
+      }
+  ]

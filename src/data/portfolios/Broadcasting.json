@@ -1,0 +1,38 @@
+[
+    {
+      "title": "360-degree view of customers",
+      "img": "/dark/assets/imgs/serv-icons/360-degree.png",
+      "desc": "A 360-degree view of your customers gives full insight into their behaviors and interactions.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Better adoption",
+      "img": "/dark/assets/imgs/serv-icons/adoption.png",
+      "desc": "Better adoption boosts user engagement, smooths transitions, and improves satisfaction.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Truly scalable",
+      "img": "/dark/assets/imgs/serv-icons/grow.png",
+      "desc": "Truly scalable solutions grow seamlessly with your business needs.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Manage your products",
+      "img": "/dark/assets/imgs/serv-icons/order.png",
+      "desc": "Easily manage your products with streamlined processes and efficient tools.",
+      "link": "/dark/page-services-details"
+    },
+    {
+        "title": "Go mobile",
+        "img": "/dark/assets/imgs/serv-icons/mobile-phone.png",
+        "desc": "Take your business on the go with mobile solutions.",
+        "link": "/dark/page-services-details"
+      },
+      {
+        "title": "Third-party integrations",
+        "img": "/dark/assets/imgs/serv-icons/honesty.png",
+        "desc": "Seamlessly connect with third-party services for enhanced functionality.",
+        "link": "/dark/page-services-details"
+      }
+  ]

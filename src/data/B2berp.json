@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Optimized Workflow Management",
+      "img": "/dark/assets/imgs/serv-icons/time-optimization.png",
+      "first":"B2B Textile ERP streamlines operations by automating tasks like inventory, production, and order management, reducing errors and saving time.",
+      "second" :"Customizable forms for property",
+      "third" :"Image and video uploads",
+      "four" :"MLS integration",
+      "five" : "Automated descriptions and tags",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": " Better Supply Chain Control",
+      "img": "/dark/assets/imgs/serv-icons/supply-chain.png" ,
+      "first":"It improves vendor coordination, ensures raw material availability, and enhances procurement efficiency for smooth production flow.",
+      "second" :"Virtual tours",
+      "third" :"Online booking and scheduling",
+      "four" :"Client feedback automation",
+      "five" : "Interactive floor plans and maps",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": " Real-Time Business Insights", 
+      "img": "/dark/assets/imgs/serv-icons/real-time-monitoring.png",
+      "first":"Advanced reporting and analytics help businesses track sales, costs, and demand trends for smarter decision-making and growth.",
+      "second" :"Lead capture and tracking",
+      "third" :"Automated follow-ups",
+      "four" :"Lead scoring",
+      "five" : "Marketing integration",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "UI-UX Design",
+      "img": "/dark/assets/imgs/serv-icons/5.png",
+      "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+      "link": "/dark/page-services-details"
+    }
+  ]

@@ -1,0 +1,22 @@
+[
+    {
+        "img": "/dark/assets/imgs/testim/user.jpg",
+        "name": "Karan Patel",
+        "desc": "Implementing B2B Textile ERP has transformed our operations. From order management to inventory tracking, everything is now seamless and efficient."
+    },
+    {
+        "img": "/dark/assets/imgs/testim/user.jpg",
+        "name": "Mohit Shah",
+        "desc": "Our textile business has seen a massive productivity boost with B2B Textile ERP. It helps us manage production, vendors, and supply chains effortlessly."
+    },
+    {
+        "img": "/dark/assets/imgs/testim/user.jpg",
+        "name": "Sita Patel",
+        "desc": "The real-time data insights from B2B Textile ERP have helped us make informed decisions, reduce waste, and improve overall efficiency in our operations."
+    },
+    {
+        "img": "/dark/assets/imgs/testim/user.jpg",
+        "name": "Adam Beckley",
+        "desc": "Managing bulk orders and multiple suppliers was challenging before B2B Textile ERP. Now, everything is automated and well-organized, saving us time and cost."
+    }
+]

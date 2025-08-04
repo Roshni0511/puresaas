@@ -1,0 +1,22 @@
+[
+    {
+     "img": "/dark/assets/imgs/testim/user.jpg",
+    "name": "Suresh Patel",
+      "desc": "The automated email campaigns in Broker CRM have been a game-changer for my marketing efforts. I can effortlessly stay in touch with my leads and clients, which has led to increased engagement and sales."
+    },
+    {
+      "img": "/dark/assets/imgs/testim/user.jpg",
+      "name": "Mahesh Parmar",
+      "desc": "Since implementing Broker CRM, managing my property listings and client relationships has become incredibly streamlined. It's intuitive, efficient, and has helped me close more deals faster than ever before!"
+    },
+    {
+      "img": "/dark/assets/imgs/testim/user.jpg",
+      "name": "Nitin Shah",
+      "desc": "As a Builder/Broker agent,Broker CRM has revolutionized how I manage my business. The seamless integration with MLS listings and intuitive property management tools have saved me hours of work."
+    },
+    {
+      "img": "/dark/assets/imgs/testim/user.jpg",
+      "name": "Adam Beckley",
+      "desc": "I have been hiring people in this space for a number of years and I have never seen this level of professionalism. It really feels like you are working with a team that can get the job done."
+    }
+  ]

@@ -1,0 +1,32 @@
+[
+    {
+      "title": "Streamlined Sales Processes",
+      "img": "/dark/assets/imgs/serv-icons/streamlined.png",
+      "first":"A Sales CRM system helps streamline and automate your sales processes, from lead generation to closing deals. It organizes and manages sales.",
+      "second" :"Customizable forms for property",
+      "third" :"Image and video uploads",
+      "four" :"MLS integration",
+      "five" : "Automated descriptions and tags",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Enhanced Team Collaboration",
+      "img": "/dark/assets/imgs/serv-icons/united.png" ,
+      "first":"A Sales CRM fosters better collaboration among team members by providing a centralized platform for sharing information and updates.",
+      "second" :"Virtual tours",
+      "third" :"Online booking and scheduling",
+      "four" :"Client feedback automation",
+      "five" : "Interactive floor plans and maps",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Customization and Integration", 
+      "img": "/dark/assets/imgs/serv-icons/settings.png",
+      "first":"Many Sales CRM systems offer customization options to tailor the CRM to your specific business needs & they integrate with other software.",
+      "second" :"Lead capture and tracking",
+      "third" :"Automated follow-ups",
+      "four" :"Lead scoring",
+      "five" : "Marketing integration",
+      "link": "/dark/page-services-details"
+    }
+  ]

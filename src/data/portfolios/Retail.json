@@ -1,0 +1,33 @@
+[
+    {
+      "title": "Inventory management",
+      "img": "/dark/assets/imgs/serv-icons/360-degree.png",
+      "desc": "Inventory Management Puresaas streamlines stock tracking, optimizes supply chains, and ensures real-time inventory control.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Extremely customizable",
+      "img": "/dark/assets/imgs/serv-icons/adoption.png",
+      "desc": "Extremely Customizable Puresaas adapts to your unique business needs with flexible workflows and features.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Seamless integration",
+      "img": "/dark/assets/imgs/serv-icons/honesty.png",
+      "desc": "integrates smoothly with your existing systems for enhanced efficiency.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Inbuilt AI",
+      "img": "/dark/assets/imgs/serv-icons/artificial-intelligence.png",
+      "desc": "AI enhances decision-making and streamlines operations.",
+      "link": "/dark/page-services-details"
+    },
+    {
+        "title": "Mobile apps",
+        "img": "/dark/assets/imgs/serv-icons/mobile-phone.png",
+        "desc": "Take your business on the go with mobile app.",
+        "link": "/dark/page-services-details"
+      }
+      
+  ]

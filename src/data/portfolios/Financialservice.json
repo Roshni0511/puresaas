@@ -1,0 +1,33 @@
+[
+    {
+      "title": "Automation",
+      "img": "/dark/assets/imgs/serv-icons/automation.png",
+      "desc": "Automates tasks for greater efficiency and consistency.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Inbuilt AI",
+      "img": "/dark/assets/imgs/serv-icons/artificial-intelligence.png",
+      "desc": "Inbuilt AI in Puresaas  enhances decision-making and automates processes for smarter operations.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Fully compliant",
+      "img": "/dark/assets/imgs/serv-icons/compliant.png",
+      "desc": "Fully Compliant with industry regulations, Puresaas ensures secure and ethical data management.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Complete management",
+      "img": "/dark/assets/imgs/serv-icons/completed-task.png",
+      "desc": "Complete Management with Puresaas CRM streamlines every aspect of your business operations.",
+      "link": "/dark/page-services-details"
+    },
+    {
+        "title": "Effortless integration",
+        "img": "/dark/assets/imgs/serv-icons/honesty.png",
+        "desc": "Effortless Integration with Puresaas CRM connects seamlessly with your existing tools and workflows.",
+        "link": "/dark/page-services-details"
+      }
+     
+  ]

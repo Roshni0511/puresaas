@@ -1,0 +1,43 @@
+[
+    {
+      "title": "Automated Sales Processes",
+      "img": "/dark/assets/imgs/serv-icons/business-automation.png",
+      "p":"Automated sales processes are a key feature of Sales CRM systems. Automation handles routine tasks such as follow-ups, email campaigns, and data entry, reducing manual effort and minimizing errors.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Marketing Automation",
+      "img": "/dark/assets/imgs//serv-icons/marketing-automation.png",
+      "p": "Automate email campaigns, newsletters, property alerts, and personalized marketing communications.Segment contacts based on interests, behaviors, and demographics for targeted marketing.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Contact and Account Management",
+      "img": "/dark/assets/imgs/serv-icons/account-manager.png",
+      "p": "Contact and account management tools in Sales CRM systems help organize and track detailed information about customers and prospects. This includes contact details, communication history, and relationship status.",
+
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Task and Activity Management",
+      "img": "/dark/assets/imgs/serv-icons/plan.png",
+      "p": "Task and activity management features help sales teams stay organized by scheduling and tracking tasks, appointments, and follow-ups. Sales CRM systems provide reminders and notifications send efficiently.",
+      "link": "/dark/page-services-details"
+    },
+
+    {
+        "title": "Sales Forecasting",
+        "img": "/dark/assets/imgs/serv-icons/forecast.png",
+        "p": "Sales forecasting tools enable teams to predict future sales performance based on historical data and current trends. By analyzing past sales data and current pipeline status, Sales CRM systems provide accurate forecasts that help with planning.",
+  
+        "link": "/dark/page-services-details"
+      },
+      {
+        "title": "Customer Segmentation",
+        "img": "/dark/assets/imgs/serv-icons/demographic.png",
+        "p": "Customer segmentation features allow users to categorize customers based on various criteria, such as demographics, behavior, or purchasing patterns. This segmentation helps sales teams tailor their approach to different customer groups, improving the effectiveness of marketing and sales efforts.",
+        "link": "/dark/page-services-details"
+      }
+      
+       
+  ]

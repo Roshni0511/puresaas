@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Real Estate Agent CRM",
+    "img": "/dark/assets/imgs/serv-icons/crm (5).png",
+    "desc": "Optimize your real estate processes with our advanced CRM solutions.",
+    "link": "/RealEstateAgentCRM"
+  },
+  {
+    "title": "Real Estate CRM",
+    "img": "/dark/assets/imgs/serv-icons/management.png",
+    "desc": "Streamline your real estate business with customized CRM software.",
+    "link": "/Realestatecrm"
+  },
+  {
+    "title": "Sales CRM",
+    "img": "/dark/assets/imgs/serv-icons/salescrm.png",
+    "desc": "Boost your sales efficiency with our cutting-edge CRM platform.",
+    "link": "/salescrm"
+  },
+  {
+    "title": "Service CRM",
+    "img": "/dark/assets/imgs/serv-icons/servicecrm.png",
+    "desc": "Enhance customer service management with our Service CRM tools.",
+    "link": "/Servicecrm"
+  },
+  {
+    "title": "B2B Textile ERP",
+    "img": "/dark/assets/imgs/serv-icons/b2b (2).png",
+    "desc": "Revolutionize your textile business with B2B ERP integration.",
+    "link": "/b2bcrm"
+  },
+  {
+    "title": "Telecaller CRM",
+    "img": "/dark/assets/imgs/serv-icons/telecaller.png",
+    "desc": "Improve telecaller productivity with our dedicated CRM solutions.",
+    "link": "/telecallercrm"
+  },
+  {
+    "title": "ATS (Application Tracking System)",
+    "img": "/dark/assets/imgs/serv-icons/tracking.png",
+    "desc": "Streamline hiring with our efficient applicant tracking system.",
+    "link": "/ATS"
+  },
+  {
+    "title": "Office ERP",
+    "img": "/dark/assets/imgs/serv-icons/system.png",
+    "desc": "Enhance customer support with our advanced service CRM.",
+    "link": "/Officeerp"
+  },
+  {
+    "title": "Payroll System",
+    "img": "/dark/assets/imgs/serv-icons/money (1).png",
+    "desc": "Automate payroll processing with our secure and efficient system.",
+    "link": "/payrollSystem"
+  }
+  
+]

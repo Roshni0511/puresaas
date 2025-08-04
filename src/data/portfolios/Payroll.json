@@ -1,0 +1,21 @@
+[
+    {
+      "title": "Employee Management",
+      "img": "/dark/assets/imgs/serv-icons/process.png",
+      "first":"The Employee Management module is a crucial part of a payroll system, ensuring that all employee-related data is accurately maintained for seamless payroll processing. "
+
+    },
+    {
+      "title": "Payroll Processing",
+      "img": "/dark/assets/imgs/serv-icons/financial.png" ,
+      "first":"The Payroll Processing module is the core component of a payroll system, responsible for accurately calculating employee salaries and ensuring timely payments."
+ 
+    },
+    {
+      "title": " Reports & Integrations", 
+      "img": "/dark/assets/imgs/serv-icons/report (1).png",
+      "first":"The Reports & Integrations module plays a vital role in a payroll system by providing detailed financial insights and seamless connectivity with external systems."
+
+    }
+  
+  ]

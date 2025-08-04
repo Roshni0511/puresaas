@@ -1,0 +1,17 @@
+[
+    {
+     "img": "/dark/assets/imgs/testim/user.jpg",
+    "name": "Kevin Parmar",
+      "desc": "The cost savings from using the Application Training System have been substantial. We’ve reduced the need for in-person training sessions and printed materials, while still providing high-quality, scalable training to our entire team."
+    },
+    {
+      "img": "/dark/assets/imgs/testim/user.jpg",
+      "name": "Mita Patel",
+      "desc": "Implementing the Application Training System has been a game-changer for us. Our employees are now able to quickly grasp new applications and tools, leading to a significant boost in productivity. "
+    },
+    {
+      "img": "/dark/assets/imgs/testim/user.jpg",
+      "name": "Mira Patel",
+      "desc": "The Application Training System has transformed our onboarding process. New hires are up to speed faster than ever, and the consistency in training quality is outstanding."
+    }
+  ]

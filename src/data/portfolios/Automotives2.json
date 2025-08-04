@@ -1,0 +1,36 @@
+[
+    {
+      "title": "Build personalized experiences",
+      "img": "/dark/assets/imgs/icon-img/crd1.png",
+      "first":"With PURSAAS CRM, you can tailor interactions using customer insights, past purchases, and preferences."
+     
+    },
+    {
+      "title": "Manage servicing and repair",
+      "img": "/dark/assets/imgs/icon-img/crd2.png",
+      "first":"PURSAAS CRM streamlines service bookings, tracks vehicle history, and sends automated maintenance reminders. "
+     
+    },
+    {
+      "title": "Keep your inventory updated",
+      "img": "/dark/assets/imgs/icon-img/crd3.png",
+      "first":"With PURSAAS CRM, you can track stock levels in real time, manage spare parts efficiently, and avoid shortages or overstocking."     
+    },
+    {
+      "title": "Streamline test drives and vehicle selection",
+      "img": "/dark/assets/imgs/icon-img/crd4.png",
+      "first":"Streamline your car buying experience with effortless test drives and simplified vehicle selection.."
+    },
+    {
+        "title": "Make data-driven decisions",
+        "img": "/dark/assets/imgs/icon-img/crd5.png",
+        "first":"Make data-driven decisions by leveraging accurate insights and analytics to guide your choices."
+       
+      },
+      {
+        "title": "Offer self-service portals for vendors and customers",
+        "img": "/dark/assets/imgs/icon-img/crd6.png",
+        "first":"Empower both vendors and customers with user-friendly self-service portals."
+       
+      }
+  ]

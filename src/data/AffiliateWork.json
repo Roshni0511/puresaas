@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Sign up for PureSaaS",
+      "img": "/dark/assets/imgs/serv-img/add-user.png",
+      "desc": "Share processes and data securely on a need-to-know basis.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Advertise on Your Website",
+      "img": "/dark/assets/imgs/serv-img/megaphone.png",
+      "desc": "Our team ensures your website is always safe and secure.",
+      "link": "/dark/page-services-details"
+    },
+    {
+      "title": "Earn Monthly Earnings",
+      "img": "/dark/assets/imgs/serv-img/wallet.png",
+      "desc": "We've finally found a host that truly understands the unique.",
+      "link": "/dark/page-services-details"
+    }
+  ]
