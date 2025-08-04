@@ -143,7 +143,7 @@ import Termsandservice from "./terms";
 import Privacypolicy from "./privacy";
 import Refundpolicy from "./refund ";
 // import Signuppage from "./signup";
-import Solution from "./Solutions";
+import Solution from "./Solutions";    
 // import Booksdemoes from "./Booksdemo";
 import Requestquotes from "./Requestquote";
 import Requestcallbackes from "./requestcallback";
