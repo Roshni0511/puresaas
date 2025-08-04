@@ -71,7 +71,7 @@ export default function HomeMain() {
         <ProgressScroll />
         <Start_exploring />
       <Whatsapp/>
-        <Lines />
+        <Lines />     
         <Navbar />
 
         <div id="smooth-wrapper">
