@@ -15,7 +15,9 @@ export default function Affiliatetesti() {
           nextEl: '.swiper-arrow-control .swiper-button-next',
           prevEl: '.swiper-arrow-control .swiper-button-prev',
         },
-      };
+      };    
+
+      
     return (
         <section className="testimonials">
           <div className="container">
