@@ -73,6 +73,16 @@ export default function HomeMain() {
       <Whatsapp/>
         <Lines />
         <Navbar />
+        
+
+
+
+
+
+
+
+
+
 
         <div id="smooth-wrapper">
           <div id="smooth-content">
@@ -86,6 +96,7 @@ export default function HomeMain() {
               {/* <CRMdesign /> */}
               <CRMdesign />
               <Services2 />
+              cdfdddddddddddddddddddddddd
               <Homeprinciples />
               <Environment /> 
               <Responsibility/>
