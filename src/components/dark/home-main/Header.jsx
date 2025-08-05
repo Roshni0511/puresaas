@@ -1,6 +1,22 @@
 'use client';
 import React, { useLayoutEffect, useState } from 'react';
 import { gsap } from 'gsap';
+import '@fortawesome/fontawesome-free/css/all.min.css';
+import { Link } from 'react-router-dom';
+
+
+
+const features = [
+  { icon: 'fas fa-home', title: 'Real Estate Agent CRM', path: '/RealEstateAgentCRM' },
+  { icon: 'fas fa-industry', title: 'B2B Textile ERP', path: '/b2bcrm' },
+  { icon: 'fas fa-building', title: 'Office ERP', path: '/Officeerp' },
+  { icon: 'fas fa-city', title: 'Real Estate CRM', path: '/Realestatecrm' },
+  { icon: 'fas fa-phone-volume', title: 'Telecaller CRM', path: '/telecallercrm' },
+  { icon: 'fas fa-chart-line', title: 'Sales CRM', path: '/salescrm' },
+  { icon: 'fas fa-users', title: 'ATS', path: '/ATS' },
+  { icon: 'fas fa-tools', title: 'Service CRM', path: '/Servicecrm' },
+  { icon: 'fas fa-file-invoice-dollar', title: 'Payroll System', path: '/PayrollSystem' },
+];
 
 function Header() {
   useLayoutEffect(() => {
@@ -58,6 +74,30 @@ function Header() {
         </div>
       </div>
     </div>
+
+ <main>
+   
+
+      {/* Feature Cards Section */}
+      <section
+        className="section-background parallax desert"
+        // style={{
+        //   backgroundImage: `url(${teamImg})`,
+        // }}
+      >
+        <div className="text-bloc">
+          <div className="features-container">
+  {features.map((feature, index) => (
+    <Link to={feature.path} key={index} className="feature-box">
+      <i className={`feature-icon ${feature.icon}`}></i>
+      <h3 className="feature-title">{feature.title}</h3>
+    </Link>
+  ))}
+</div>
+        </div>
+      </section>
+    </main>
+
      
           <style jsx>{`
         .crm-grid {
