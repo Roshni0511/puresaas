@@ -42,6 +42,7 @@ import Swal from "sweetalert2";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faAngleDown, faAngleRight } from '@fortawesome/free-solid-svg-icons';
 import Floatingactionbutton from './Floating-action-button';
+import ProductNavbar from './ProductNavbar';
 
 const extractFeatures = (featureString) => {
   return featureString.split(',');
@@ -470,7 +471,8 @@ export default function RealEstateAgentCRMs() {
         <Lines />
         <div id="smooth-wrapper">
 
-          <CRMNavbar />
+          {/* <CRMNavbar /> */}
+          <ProductNavbar />
           <div
             className="header main-header bg-img"
             data-background="/dark/assets/imgs/header/bg1.jpg"

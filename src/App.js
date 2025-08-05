@@ -154,6 +154,7 @@ import Vision from "./vision";
 // import Officeerpss from "./OfficeERP";
 // import Officeerpss from "./Officeerp";
 import OfficeErpss1 from "./OfficeErp";
+import ProductNavbar from "./ProductNavbar";
 function App() {
   return (
     <Router>
@@ -178,6 +179,7 @@ function App() {
       <Route path="/salescrm" element={<Salescrms />} />
       <Route path="/ATS" element={<ATSCRM />} />
       <Route path="/Servicecrm" element={<Servicecrmpages />} />
+      <Route path="/ProductNavbar" element={<ProductNavbar />} />
       <Route path="/payrollSystem" element={<PayrollSystems />} />
       {/* <Route path="/Pricinggg" element={<Pricings />} /> */}
       <Route path="/Automotive" element={<Automotivescrm />} />
